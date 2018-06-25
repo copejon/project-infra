@@ -6,3 +6,10 @@ plugins:
   - release-note
   - label
   - blunderbuss
+  kubevirt/containerized-data-importer:
+  - size
+  - assign
+  - hold
+  - release-note
+  - label
+  - blunderbuss
